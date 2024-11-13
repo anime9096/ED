@@ -1,0 +1,52 @@
+Generate audio frequency signals to be used in musical instruments. Design and
+simulate the circuit.
+OBJECTIVES:
+1. Design the Wien bridge oscillator circuit for given frequency.
+2. Build & test Wien bridge oscillator circuit.
+3. Verify theoretical & practical frequency.
+
+LINK:- https://tinyurl.com/2c7v4koa
+
+AIM: Can Square waves be generated using op-amp? Design, build & test such circuit.
+Also suggest suitable circuit to produce triangular waveforms from square waveform.
+OBJECTIVES:
+1. Design Square wave & triangular wave generator circuit for particular
+frequency.
+2. Implement & test Square wave & triangular wave generator circuit.
+3. Verify theoretical & practical frequency.
+
+LINK:- https://tinyurl.com/254jjocp
+
+AIM: - Design an integrator circuit for given frequencies. Build the integrator using
+op-amp and verify the results using frequency response.
+OBJECTIVES: -
+1. Build and test Op Amp integrator for given frequencies.
+2. Observe output waveforms for different input signals.
+3. Plot & verify fa and fb
+
+LINK:- https://tinyurl.com/23xvp4zr
+
+AIM: To design and verify the operation of an inverting summing amplifier using an
+operational amplifier (op-amp), where the output is the amplified sum of the input
+voltages
+        
+ LINK:- https://tinyurl.com/22awzs7b
+
+An industrial motor requires the variable DC supply which provides output up to 5 V.
+Design and test the circuit for this application using simulation software
+
+ LINK:- https://tinyurl.com/2dccygmw         min pot
+ LINK:-https://tinyurl.com/2dd2nxoy            max pot
+
+AIM: - Can we convert digital signals to analog using op-amp? Implement 2-bit DAC
+using simulation software and verify the results.
+
+ LINK:- https://tinyurl.com/22qlg4pe
+
+AIM: Most biomedical sensors generate tiny signals, such as blood pressure sensors,
+ultrasound transducers, polarized and non-polarized electrodes. Suggest a suitable
+amplifier using op-amp for this medical application. For example, in electrocardiography
+machines, or ECGs; which monitor the changes in the heart’s dipole electric field. Also
+simulate the circuit.
+
+ LINK:-https://tinyurl.com/22q2m6g2
